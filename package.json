@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JomaVysokiy/hexlet-git.git"
+  },
+  "author": "JomaVysokiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JomaVysokiy/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/JomaVysokiy/hexlet-git#readme",
+  "description": ""
+}
